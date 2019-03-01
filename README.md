@@ -35,8 +35,11 @@ and represent an 80% accuracy score for the classification. The evaluation of th
 ![alt text](evaluation.png)
 
 
-Finally I plotted the feature importances by all the models in the order of the Gradient Boosting model.
+Finally I plotted the feature importances by all the models, ordering by importances of the Gradient Boosting model. 
 
 ![alt text](feature_importances.png)
+
+Presentation to this project available on the link below!
+https://docs.google.com/presentation/d/1TeyJW7wYiTxVHdAI88GYWJl3VkQKelax8OmXWrF2GWA/edit#slide=id.g4e352ec16c_0_1015
 
 
